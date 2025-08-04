@@ -131,3 +131,11 @@ Research papers for software engineers to transition to AI Engineering
 
 AI Engineering: https://interviewready.io/course-page/ai-engineering
 
+
+## Appendix
+
+- [TowardsDataScience: (BPE - Byte Pair Encoding Algo)](https://towardsdatascience.com/byte-pair-encoding-subword-based-tokenization-algorithm-77828a70bee0/)
+- [Hugging Face:(Summary of the tokenizers)](https://huggingface.co/docs/transformers/tokenizer_summary)
+- [Hugging Face: Unigram(Subword Regularization)](https://huggingface.co/papers/1804.10959)
+- [Hugging Face: SentencePiece](https://huggingface.co/papers/1808.06226)
+- [Google Scholar: WordPiece(JAPANESE AND KOREAN VOICE SEARCH)](https://static.googleusercontent.com/media/research.google.com/ja//pubs/archive/37842.pdf)
